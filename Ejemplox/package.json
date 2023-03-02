@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mongodb": "^4.13.0",
+    "npm": "^9.2.0"
+  },
+  "name": "primero",
+  "version": "1.0.0",
+  "description": "primero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

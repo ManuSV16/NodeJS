@@ -1,0 +1,18 @@
+{
+  "name": "webservice",
+  "version": "1.0.0",
+  "description": "http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "express"
+  ],
+  "author": "Manuel Sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
